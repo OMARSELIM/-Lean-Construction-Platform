@@ -1,0 +1,7 @@
+{
+  "name": "منصة البناء الرشيق | Lean Construction Platform",
+  "description": "تطبيق متكامل لإدارة مشاريع البناء باستخدام منهجية Lean، يتضمن نظام Last Planner، تتبع الـ PPC، ومستشار ذكاء اصطناعي لتحسين الإنتاجية.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
